@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{F408B05F-9663-4004-A9E2-0841D5C4D715}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{062E9DD0-9ED8-44C4-A54E-3E36257B58A7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -116,6 +116,7 @@
       DTS:refId="Package\20190620_Bank-Customer-Demo"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{00540142-4090-4B69-9760-B7F074AA0713}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
